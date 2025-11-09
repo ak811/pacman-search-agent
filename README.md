@@ -101,11 +101,3 @@ Maps are plain text with the following glyphs:
 - Non-recognized characters are treated as empty cells for robustness.
 - Parsing is implemented in `pacman/io.py` (`read_map`).
 
-Example:
-```text
-*********
-*  #    *
-* *** * *
-*   * x *
-*********
-```
