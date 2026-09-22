@@ -1,4 +1,4 @@
-# Pac-Man RL agent with BFS/DFS/A* heuristics  
+## BFS/DFS/UCS/A* search agent with admissible Manhattan/Euclidean heuristics and a Pygame visualizer
 
 A modular, extensible Pac‑Man–style gridworld implemented with Pygame. The project provides a clean separation between **I/O**, **environment modeling**, **search/heuristics**, **agents**, and **rendering**, enabling experiments with classical search algorithms and future reinforcement learning (RL) agents.
 
